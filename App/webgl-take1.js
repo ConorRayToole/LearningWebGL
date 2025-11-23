@@ -10,7 +10,7 @@ function main() {
 
   if (gl === null) {
     alert(
-      "Unable to initialize WebGL. Your browser or machine may not support it."
+      "Unable to initialize WebGL. Your browser or machine may not support it"
     );
     return;
   }
